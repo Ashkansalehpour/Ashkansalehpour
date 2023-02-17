@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I could work even in space 👽**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Ashkanspdex@gmail.com</h3>
 <p align="left">
 </p>
 
