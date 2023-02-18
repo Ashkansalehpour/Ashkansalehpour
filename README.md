@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Html/Css5/JavaScript and Ui/Ux stuff**
 
-- 📫 How to reach me **Ashkanspdex@gmail.com**
+- 📫 How to reach me **Ashkanspdev@gmail.com**
 
 - ⚡ Fun fact **I think I could work even in space 👽**
 
