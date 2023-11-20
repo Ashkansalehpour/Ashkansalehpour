@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashkansalehpour&label=Profile%20views&color=0e75b6&style=flat" alt="ashkansalehpour" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👯 I’m looking to collaborate on **Any project that related to creating website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ashkansalehpour?tab=repositories](https://github.com/Ashkansalehpour?tab=repositories)
